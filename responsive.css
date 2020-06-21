@@ -1,0 +1,628 @@
+@charset "utf-8";
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .cl-effect-21{
+	  width:100%;
+  }
+  header {
+	  width:100%;
+  }
+  .top-wrapper {
+  width:auto;
+  }
+  .res {
+	  width:100%;
+  }
+  .active {
+	  font-size:18px;
+  }
+  
+  .container {
+	  width:100%;
+  }
+  .lesson {
+    width: 25%;
+ 
+  }
+  /**lesson icon 1--*/
+.lesson-icon1 p {
+  width: 100%;
+}
+
+.overlay {
+  width: 80%;
+  height: 50%;
+}
+.text {
+  color: black;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+}
+
+
+/*--lesson icon 2-*/
+.lesson2 {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon2 {
+  position: absolute;
+}
+
+.lesson-icon2 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: black;
+}
+
+.overlay2 {
+ 
+  width: 80%;
+  height: 50%;
+}
+
+
+.text2 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+}
+/*-lesson icon 3-*/
+.lesson3 {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon3 {
+  position: absolute;
+}
+
+.lesson-icon3 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay3 {
+  
+  width: 80%;
+  height: 50%;
+  
+}
+
+
+.text3 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+/*-lesson icon 4-*/
+.lesson4 {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon4 {
+  position: absolute;
+}
+
+.lesson-icon4 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay4 {
+  
+  width: 80%;
+  height: 50%; 
+}
+
+
+.text4 {
+  color: black;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+ 
+ .lesson-wrapper {
+	 height:500px;
+ }.cl-effect-21{
+	  width:100%;
+	  
+  }
+  .logo {
+	  position:relative;
+  }
+  header {
+	  width:100%;
+  }
+  .top-wrapper {
+  width:auto;
+  }
+  .res {
+	  width:90%;
+  }
+
+  .active {
+	  font-size:18px;
+  }
+  
+  .container {
+	  width:100%;
+  }
+  .container-right {
+	  width:25%
+	  }
+   .btn-wrapper {
+	width:40%;
+		  
+	  }
+  .lesson {
+    width: 50%;
+    
+	
+  }
+  
+  /**lesson icon 1--*/
+.lesson-icon1 p {
+  width: 100%;
+}
+
+.overlay {
+  width: 60%;
+  height: 50%;
+}
+
+/*--lesson icon 2-*/
+.lesson2 {
+  float: left;
+  width: 50%;
+  align-content:center;
+}
+
+.lesson-icon2 {
+  position: absolute;
+}
+
+.lesson-icon2 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: black;
+}
+
+.overlay2 {
+  position:relative;
+  width: 60%;
+  height: 50%;
+}
+
+
+.text2 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+}
+/*-lesson icon 3-*/
+.lesson3 {
+  float:right;
+  width: 50%;
+}
+
+.lesson-icon3 {
+  position: absolute;
+}
+
+.lesson-icon3 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay3 {
+  
+  width: 60%;
+  height: 50%;
+  
+}
+
+.text3 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+/*-lesson icon 4-*/
+.lesson4 {
+  float: right;
+  width: 50%;
+}
+
+.lesson-icon4 {
+  position: absolute;
+}
+
+.lesson-icon4 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay4 {
+  
+  width: 60%;
+  height: 50%; 
+}
+
+
+.text4 {
+  color: black;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+
+}
+@media all and (max-width: 500px) {
+ 
+ .lesson-wrapper {
+	 height:1000px;
+ }.cl-effect-21{
+	  width:100%;
+	  display:none;
+  }
+  header {
+	  width:100%;
+  }
+  .top-wrapper {
+  width:100%;
+  text-align:center;
+  }
+  .res {
+	  width:50%;
+  }
+  .active {
+	  font-size:18px;
+  }
+  
+  .container {
+	  width:80%;
+  }
+   .btn-wrapper {
+      width:50%;
+		  
+	  }
+  .lesson {
+    width: 100%; 
+  }
+ 
+  /**lesson icon 1--*/
+.lesson-icon1 p {
+  width: 100%;
+}
+
+.overlay {
+  width: 50%;
+  height: 50%;
+}
+.text {
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  
+  right:0%;
+  left: 46%;
+  text-align:center;
+
+}
+/*--lesson icon 2-*/
+.lesson2 {
+  float: left;
+  width: 100%;
+}
+
+.lesson-icon2 {
+  position: absolute;
+}
+
+.lesson-icon2 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: black;
+}
+
+.overlay2 {
+ 
+  width: 50%;
+  height: 50%;
+}
+
+
+.text2 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+}
+/*-lesson icon 3-*/
+.lesson3 {
+  float: left;
+  width: 100%;
+}
+
+.lesson-icon3 {
+  position: absolute;
+}
+
+.lesson-icon3 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay3 {
+  
+  width: 50%;
+  height: 50%;
+  
+}
+
+.text3 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+/*-lesson icon 4-*/
+.lesson4 {
+  float: left;
+  width: 100%;
+}
+
+.lesson-icon4 {
+  position: absolute;
+}
+
+.lesson-icon4 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay4 {
+  
+  width: 50%;
+  height: 50%; 
+}
+
+
+.text4 {
+  color: black;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+  .top-wrapper h1 {
+    font-size: 30px;
+  }
+  
+  .heading h2 {
+    font-size: 18px;
+  }
+
+}
+@media all and (max-width: 400px) {
+ 
+ .lesson-wrapper {
+	 height:1000px;
+ }.cl-effect-21{
+	  width:100%;
+	  display:none;
+  }
+  header {
+	  width:100%;
+  }
+  .top-wrapper {
+  width:100%;
+   text-align:center;
+  }
+  .res {
+	  width:50%;
+  }
+  .active {
+	  font-size:18px;
+  }
+  
+  .container {
+	  width:80%;
+  }
+   .btn-wrapper {
+      width:50%;	  
+	  }
+	  .container-right {
+		  width:20%;
+	  }
+	  
+  .lesson {
+    width: 100%; 
+  }
+ 
+  /**lesson icon 1--*/
+.lesson-icon1 p {
+  width: 100%;
+}
+
+.overlay {
+  width: 70%;
+  height: 50%;
+}
+.text {
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  
+  right:0%;
+  left: 46%;
+  text-align:center;
+
+}
+/*--lesson icon 2-*/
+.lesson2 {
+  float: left;
+  width: 100%;
+}
+
+.lesson-icon2 {
+  position: absolute;
+}
+
+.lesson-icon2 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: black;
+}
+
+.overlay2 {
+ 
+  width: 70%;
+  height: 50%;
+}
+
+
+.text2 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+}
+/*-lesson icon 3-*/
+.lesson3 {
+  float: left;
+  width: 100%;
+}
+
+.lesson-icon3 {
+  position: absolute;
+}
+
+.lesson-icon3 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay3 {
+  
+  width: 70%;
+  height: 50%;
+  
+}
+
+.text3 {
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+/*-lesson icon 4-*/
+.lesson4 {
+  float: left;
+  width: 100%;
+}
+
+.lesson-icon4 {
+  position: absolute;
+}
+
+.lesson-icon4 p {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
+}
+
+.overlay4 {
+  
+  width: 70%;
+  height: 50%; 
+}
+
+
+.text4 {
+  color: black;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+}
+  .top-wrapper h1 {
+    font-size: 30px;
+  }
+  
+  .heading h2 {
+    font-size: 18px;
+  }
+
+}
