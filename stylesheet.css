@@ -180,7 +180,7 @@ nav a:focus {
 /*-------*/
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image:url(images/backgroundd.jpg);
+  background-image:url(backgroundd.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -202,7 +202,7 @@ nav a:focus {
 .lesson-wrapper {
   height: 400px;
   padding-bottom: 100px;
-  background-image:url(images/deutsche-flagge.jpg);
+  background-image:url(deutsche-flagge.jpg);
   background-size:cover;
   text-align: center;
   
